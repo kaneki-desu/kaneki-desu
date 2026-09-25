@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Sibajit 👋
 
-<!--
-**kaneki-desu/kaneki-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | AI & Backend Enthusiast
 
-Here are some ideas to get you started:
+I'm a B.Tech ECE student at NIT Silchar, interested in building
+AI-powered systems, backend services, and full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  What I work with
+
+- **Languages:** Java, Python, JavaScript, TypeScript
+- **Frontend:** React, Next.js, SvelteKit, Tailwind CSS
+- **Backend:** FastAPI, Node.js
+- **Database:** PostgreSQL, MongoDB
+- **AI/ML:** Machine Learning, GenAI, RAG, LLM applications
+
+###  Currently working on
+
+- 3D Scanner for Object Reconstruction using Triangulation
+
+### 📌 Featured Projects
+
+- **Triphla** — AI-powered investment advisor platform
+- **Investro-Grow** — Stocks Tracker Dashboard 
+- **Beyond-Chat** — Reddit Persona Generator
+
+     ╭──────────────────────────────────────╮
+     │                                      │
+     │   ///   S I B A J I T   ///          │
+     │                                      │
+     │       AI  •  BACKEND  •  SYSTEMS     │
+     │                                      │
+     ╰──────────────────────────────────────╯
+     
+###  Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/sibajit-mazumder/) • [GitHub](https://github.com/kaneki-desu)
