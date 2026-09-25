@@ -22,15 +22,16 @@ AI-powered systems, backend services, and full-stack applications.
 - **Triphla** — AI-powered investment advisor platform
 - **Investro-Grow** — Stocks Tracker Dashboard 
 - **Beyond-Chat** — Reddit Persona Generator
-
-     ╭──────────────────────────────────────╮
-     │                                      │
-     │   ///   S I B A J I T   ///          │
-     │                                      │
-     │       AI  •  BACKEND  •  SYSTEMS     │
-     │                                      │
-     ╰──────────────────────────────────────╯
-     
+  
 ###  Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/sibajit-mazumder/) • [GitHub](https://github.com/kaneki-desu)
+
+```text
+╭────────────────────────────────────────╮
+│                                        │
+│          /// S I B A J I T ///         │
+│                                        │
+│         AI • BACKEND • SYSTEMS         │
+│                                        │
+╰────────────────────────────────────────╯
